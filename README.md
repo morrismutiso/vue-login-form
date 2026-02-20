@@ -241,6 +241,15 @@ Please ensure your code follows the existing style conventions and that all vali
 
 ---
 
+## Reference
+Official Documentation — Vue.js, Node.js, and web.dev/learn/css
+Learning Resources — W3Schools, Stack Overflow, and Moringa School
+AI-Assisted Development — Claude and ChatGPT, with a brief note on how each was used
+People — Colleagues for peer review and collaboration
+General Application Knowledge — A note on the broader software principles that guided the project
+
+---
+
 ## License
 
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute this project for personal or commercial purposes.
